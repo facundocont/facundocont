@@ -7,7 +7,6 @@ Soy Facundo, un programdor FrontEnd graduado con un título en Técnico Superior
 ## 🔭 Qué estoy haciendo?
 Actualmente estoy trabajando en varios proyectos en simultáneo:
 - 🚀 Construyendo mi portfolio: Pronto estará disponible para que todos puedan ver mi progreso y conocer sobre mis habilidades y experiencia.
-- 🤝 Participando en un cohorte en [NoCountry](https://www.nocountry.tech/): Un programa de desarrollo de habilidades técnicas y colaboración con otros profesionales.
 - 🌐 Desarrollando una landing page para una empresa local: Trabajando en un proyecto de marketing digital para ayudar a una empresa a atraer más clientes.
 - 🎯 Practicando programación: Llevo adelante varios proyectos pequeños para mejorar mis habilidades técnicas.
 
