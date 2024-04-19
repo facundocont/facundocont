@@ -2,7 +2,7 @@
 Soy Facundo, un programdor FrontEnd graduado con un título en Técnico Superior en Programación.
 
 ## 🛠️ Tecnologías con las que he trabajado
-[![My Skills](https://skillicons.dev/icons?i=react,astro,html,css,javascript,ts,tailwind,django,py,java,flutter,mysql,figma,git,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,astro,next,html,css,javascript,ts,tailwind,django,py,java,flutter,mysql,figma,git,vercel)](https://skillicons.dev)
 
 ## 🔭 Qué estoy haciendo?
 Actualmente estoy trabajando en varios proyectos en simultáneo:
