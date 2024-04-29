@@ -10,12 +10,9 @@ Actualmente estoy trabajando en varios proyectos en simultáneo:
 - 🚀 Construyendo mi portfolio: Pronto estará disponible para que todos puedan ver mi progreso y conocer sobre mis habilidades y experiencia.
 - 🎯 Practicando programación: Llevo adelante varios proyectos pequeños para mejorar mis habilidades técnicas.
 
-## 🌱 Qué estoy aprendiendo?   
-- 📚 Aprendiendo sobre las mejores prácticas en desarrollo web y diseño UX/UI.
-- 💻 Profundizando en tecnologías como React y Node.js.
-- 🌟 Aprendiendo sobre Astro framework, TypeScript y Flutter.
-
 ## 🏆 Mi experiencia
+- 👨‍⚕️ [Norte Salud](https://ns-landing-page-swart.vercel.app/): Landing page para una empresa local.
+- 📢 [TalkIAmos](https://talkiamos.vercel.app/): Un traductor que utiliza IA para poder detectar idiomas y modismos de usos cotidianos.
 - 🚚 [Go Courier](https://github.com/No-Country/C16-03-m-node-react-): Una web app que funciona como gestor de envíos de un courier.
 - 🏭 [Sistema de gestión de producción](https://github.com/leanmsan/del-barco-front): Una web app para la gestión de la producción de una cervecería.
 
