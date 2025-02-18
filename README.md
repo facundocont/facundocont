@@ -1,5 +1,5 @@
 # Hola 👋
-Soy Facundo, desarrollador graduado con en Técnico Superior en Programación.
+👩‍💻 Soy Facundo, desarrollador graduado con en Técnico Superior en Programación.
 
 ## 🛠️ Tecnologías con las que he trabajado
 [![My Skills](https://skillicons.dev/icons?i=react,astro,flutter,next,html,css,javascript,ts,tailwind,postman,mysql,figma,git,vercel)](https://skillicons.dev)
@@ -17,6 +17,9 @@ Actualmente estoy trabajando en varios proyectos en simultáneo:
 - 📢 [TalkIAmos](https://talkiamos.vercel.app/): Un traductor que utiliza IA para poder detectar idiomas y modismos de usos cotidianos.
 - 🚚 [Go Courier](https://github.com/No-Country/C16-03-m-node-react-): Una web app que funciona como gestor de envíos de un courier.
 - 🏭 [Sistema de gestión de producción](https://github.com/leanmsan/del-barco-front): Una web app para la gestión de la producción de una cervecería.
+
+## 🔥 Mis stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facundocont&theme=radical&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=45%2C00041A%2C4A1B1B)](https://git.io/streak-stats)
 
 ## 👯 Colaboraciones
 - 🤝 Estoy abierto a colaborar en proyectos de desarrollo web y diseño.
