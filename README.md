@@ -1,29 +1,57 @@
-# Hola 👋
-👩‍💻 Soy Facundo, desarrollador graduado con en Técnico Superior en Programación.
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-## 🛠️ Tecnologías con las que he trabajado
-[![My Skills](https://skillicons.dev/icons?i=react,astro,flutter,next,html,css,javascript,ts,tailwind,postman,mysql,figma,git,vercel)](https://skillicons.dev)
+###
 
-## 🔭 Qué estoy haciendo?
-Actualmente estoy trabajando en varios proyectos en simultáneo:
-- 🤝 Trabajo para una empresa local desarrollando aplicaciones móviles (desarrolladas en Flutter) y actualizando sus páginas webs (desarrolladas con NextJs, Astro y WordPress). También me encargo del área de sistemas, controlando sus servidores (web y de base de datos), sus dominios de internet, y los programas utilizados para el trabajo interno de la empresa.
-- 🚀 Buscando proyectos para llevar a cabo.
+<h1 align="center">¡Hola 👋!</h1>
+<h3 align="center">Soy Facundo, Técnico Superior en Programación</h3>
 
-## 🏆 Mi experiencia
-- 📗 [Norte Beneficios](https://www.nortebeneficios.com.ar/): Actualmente estoy trabajando como desarrollador. Mi trabajo consta de actualizar y mantener sus aplicaciones móviles y webs, desarrollar nuevas webs y del mantenimiento de las bases de datos.
-- ✉️ [Invitación Digital](https://andrea-y-maru.vercel.app): Estoy incursionando en un proyecto donde realizamos invitaciones digitales para eventos. En el enlace pueden revisar un diseño realizado. 
-- 🍺 [Ruta Cervecera SDE](https://www.rutacervecerasde.com.ar/): Realice la landing page de Ruta Cervecera SDE, página dedicada al turismo gastronómico.
-- 👨‍⚕️ [Norte Salud](https://www.tunortesalud.com.ar/): Realice la landing page de la empresa y actualmente me dedico como desarrollador de sus aplicaciones móviles y manteniendo/actualizando sus multiples webs.
-- 📢 [TalkIAmos](https://talkiamos.vercel.app/): Un traductor que utiliza IA para poder detectar idiomas y modismos de usos cotidianos.
-- 🚚 [Go Courier](https://github.com/No-Country/C16-03-m-node-react-): Una web app que funciona como gestor de envíos de un courier.
-- 🏭 [Sistema de gestión de producción](https://github.com/leanmsan/del-barco-front): Una web app para la gestión de la producción de una cervecería.
+###
 
-## 🔥 Mis stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facundocont&theme=radical&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=45%2C00041A%2C4A1B1B)](https://git.io/streak-stats)
+<h3 align="center">🛠 Lenguajes y herramientas</h3>
 
-## 👯 Colaboraciones
-- 🤝 Estoy abierto a colaborar en proyectos de desarrollo web y diseño.
+[![My Skills](https://skillicons.dev/icons?i=next,react,astro,flutter,ts,js,html,css,tailwind,postman,mysql,figma,git,vercel)](https://skillicons.dev)
 
-## 📫 Cómo puedes contactarme
-- 📧 Mi correo electrónico: [facundocont.fc@gmail.com](mailto:facundocont.fc@gmail.com)
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ignacio-contreras/)
+###
+
+<h3 align="center">🔥 Mis estadísticas</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facundocont&theme=radical&locale=es&short_numbers=true)](https://git.io/streak-stats)
+
+
+###
+
+<h3 align="center">🔭 Qué estoy haciendo actualmente</h3>
+
+- 🤝 Trabajo en una empresa local desarrollando **aplicaciones móviles en Flutter** y actualizando **páginas web con Next.js y Astro**.  
+  También gestiono el área de sistemas: servidores web y de bases de datos, dominios de internet y software interno.  
+- 📱 Realizando un curso avanzado de **Flutter**.  
+- 🚀 Buscando nuevos proyectos para desarrollar y aprender.  
+
+###
+
+<h3 align="center">🏆 Experiencia y proyectos</h3>
+
+- 📗 [**Norte Beneficios**](https://www.nortebeneficios.com.ar/) → Desarrollo y mantenimiento de apps móviles, webs y bases de datos.  
+- 🥘 [**Next.js Boilerplate**](https://github.com/facundocont/nextjs-boilerplate) → Boilerplate básico para iniciar proyectos en Next.js.  
+- ✉️ [**Invitación Digital**](https://andrea-y-maru.vercel.app) → Proyecto de invitaciones digitales para eventos.  
+- 🍺 [**Ruta Cervecera SDE**](https://www.rutacervecerasde.com.ar/) → Landing page dedicada al turismo gastronómico.  
+- 👨‍⚕️ [**Norte Salud**](https://www.tunortesalud.com.ar/) → Landing page y desarrollo/mantenimiento de apps y múltiples webs.  
+- 📢 [**TalkIAmos**](https://talkiamos.vercel.app/) → Traductor con IA para detectar idiomas y modismos.  
+- 🚚 [**Go Courier**](https://github.com/No-Country/C16-03-m-node-react-) → Web app de gestión de envíos para courier.  
+- 🏭 [**Sistema de gestión de producción**](https://github.com/leanmsan/del-barco-front) → Web app para la gestión de producción en cervecería.  
+
+###
+
+<h3 align="center">👯 Colaboraciones</h3>
+
+- 🤝 Abierto a colaborar en proyectos de **desarrollo web** y **diseño de interfaces**.  
+
+###
+
+<h3 align="center">📫 Contacto</h3>
+
+- 📧 Correo: [facundocont.fc@gmail.com](mailto:facundocont.fc@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ignacio-contreras/)  
+- 🎡 [Portfolio](https://facundocont.com)  
