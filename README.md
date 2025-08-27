@@ -10,14 +10,19 @@
 ###
 
 <h3 align="center">🛠 Lenguajes y herramientas</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=next,react,astro,flutter,ts,js,html,css,tailwind,postman,mysql,figma,git,vercel)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,astro,flutter,ts,js,html,css,tailwind,postman,mysql,figma,git,vercel" />
+  </a>
+</p>
 
 ###
 
 <h3 align="center">🔥 Mis estadísticas</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=facundocont&theme=radical&locale=es&short_numbers=true)](https://git.io/streak-stats)
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-fawn-ten.vercel.app?user=facundocont&theme=radical&locale=es&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div>
 
 
 ###
@@ -39,8 +44,7 @@
 - 🍺 [**Ruta Cervecera SDE**](https://www.rutacervecerasde.com.ar/) → Landing page dedicada al turismo gastronómico.  
 - 👨‍⚕️ [**Norte Salud**](https://www.tunortesalud.com.ar/) → Landing page y desarrollo/mantenimiento de apps y múltiples webs.  
 - 📢 [**TalkIAmos**](https://talkiamos.vercel.app/) → Traductor con IA para detectar idiomas y modismos.  
-- 🚚 [**Go Courier**](https://github.com/No-Country/C16-03-m-node-react-) → Web app de gestión de envíos para courier.  
-- 🏭 [**Sistema de gestión de producción**](https://github.com/leanmsan/del-barco-front) → Web app para la gestión de producción en cervecería.  
+- 🚚 [**Go Courier**](https://github.com/No-Country/C16-03-m-node-react-) → Web app de gestión de envíos para courier.   
 
 ###
 
