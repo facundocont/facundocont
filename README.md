@@ -28,22 +28,21 @@
 
 <h3 align="center">🔭 Qué estoy haciendo actualmente</h3>
 
-- 🤝 Trabajo en una empresa local desarrollando **aplicaciones móviles en Flutter** y actualizando **páginas web con Next.js y Astro**.  
+- 🤝 Trabajo en una empresa desarrollando **aplicaciones móviles en Flutter**, actualizando **páginas web con Next.js** y .  
   También gestiono el área de sistemas: servidores web y de bases de datos, dominios de internet y software interno.  
 - 📱 Realizando un curso avanzado de **Flutter**.  
 - 🚀 Buscando nuevos proyectos para desarrollar y aprender.  
 
 ###
 
-<h3 align="center">🏆 Experiencia y proyectos</h3>
+<h3 align="center">🏆 Experiencia y proyectos principales</h3>
 
 - 📗 [**Norte Beneficios**](https://www.nortebeneficios.com.ar/) → Desarrollo y mantenimiento de apps móviles, webs y bases de datos.  
 - 🥘 [**Next.js Boilerplate**](https://github.com/facundocont/nextjs-boilerplate) → Boilerplate básico para iniciar proyectos en Next.js.  
-- ✉️ [**Invitación Digital**](https://andrea-y-maru.vercel.app) → Proyecto de invitaciones digitales para eventos.  
 - 🍺 [**Ruta Cervecera SDE**](https://www.rutacervecerasde.com.ar/) → Landing page dedicada al turismo gastronómico.  
-- 👨‍⚕️ [**Norte Salud**](https://www.tunortesalud.com.ar/) → Landing page y desarrollo/mantenimiento de apps y múltiples webs.  
-- 📢 [**TalkIAmos**](https://talkiamos.vercel.app/) → Traductor con IA para detectar idiomas y modismos.  
-- 🚚 [**Go Courier**](https://github.com/No-Country/C16-03-m-node-react-) → Web app de gestión de envíos para courier.   
+- 👨‍⚕️ [**Norte Salud**](https://www.tunortesalud.com.ar/) → Landing page y desarrollo/mantenimiento de apps y múltiples webs.
+
+  Puedes ver más en mi portfolio  👉  [facundocont.com](https://facundocont.com) 
 
 ###
 
