@@ -2,11 +2,6 @@
   <!-- Reemplaza esta línea con tu nuevo banner cuando lo tengas -->
   <img height="150" src="./github-header-banner.png" alt="Facundo Contreras - Desarrollador de Software" />
   
-  <!-- Alternativa con banner dinámico de texto (descomentar si prefieres usarlo):
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Facundo+Contreras;Desarrollador+de+Software;Next.js+%7C+TypeScript+%7C+Flutter" alt="Typing SVG" />
-  </a>
-  -->
 </div>
 
 <br>
