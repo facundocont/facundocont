@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Reemplaza esta línea con tu nuevo banner cuando lo tengas -->
   <img height="150" src="./github-header-banner.png" alt="Facundo Contreras - Desarrollador de Software" />
   
 </div>
