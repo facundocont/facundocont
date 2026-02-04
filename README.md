@@ -1,59 +1,125 @@
 <div align="center">
-  <img height="150" src="./github-header-banner.png"  />
+  <!-- Reemplaza esta línea con tu nuevo banner cuando lo tengas -->
+  <img height="150" src="./github-header-banner.png" alt="Facundo Contreras - Desarrollador de Software" />
+  
+  <!-- Alternativa con banner dinámico de texto (descomentar si prefieres usarlo):
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Facundo+Contreras;Desarrollador+de+Software;Next.js+%7C+TypeScript+%7C+Flutter" alt="Typing SVG" />
+  </a>
+  -->
 </div>
 
-###
+<br>
+<br>
 
-<h3 align="center">Técnico Superior en Programación</h3>
+<h3 align="center">💻 Desarrollador de Software</h3>
 
-###
+<p align="center">
+  <strong>Especializado en Desarrollo Web y Mobile</strong><br>
+  Next.js • TypeScript • Flutter • Astro<br>
+  <em>Técnico Superior en Programación</em>
+</p>
 
-<h3 align="center">🛠 Lenguajes y herramientas</h3>
+<br>
+<br>
+
+<h3 align="center">🛠 Stack Tecnológico</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,astro,flutter,ts,js,html,css,tailwind,postman,mysql,figma,git,vercel" />
+    <img src="https://skillicons.dev/icons?i=next,ts,flutter,react,astro,js,dart,tailwind,figma,git,vercel,html,css,mysql,postman" />
   </a>
 </p>
 
-###
+<br>
+<br>
 
-<h3 align="center">🔥 Mis estadísticas</h3>
+<h3 align="center">🔥 Estadísticas de GitHub</h3>
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-fawn-ten.vercel.app?user=facundocont&theme=radical&locale=es&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
+<br>
+<br>
 
-###
+<h3 align="center">👨‍💻 Sobre mí</h3>
 
-<h3 align="center">🔭 Qué estoy haciendo actualmente</h3>
+<p align="left">
+Desarrollador de Software especializado en aplicaciones web modernas con <strong>Next.js y TypeScript</strong>, desarrollo mobile con <strong>Flutter</strong>, y en formación continua en tecnologías backend. Trabajo en el área de sistemas de <a href="https://nortebeneficios.com.ar">Norte Beneficios</a>, donde desarrollo y mantengo aplicaciones móviles, sitios web y sistemas internos.
 
-- 🤝 Trabajo en una empresa desarrollando **aplicaciones móviles en Flutter**, actualizando **páginas web con Next.js** y .  
-  También gestiono el área de sistemas: servidores web y de bases de datos, dominios de internet y software interno.  
-- 📱 Realizando un curso avanzado de **Flutter**.  
-- 🚀 Buscando nuevos proyectos para desarrollar y aprender.  
+<br>
 
-###
+Me caracterizo por ser una persona <strong>curiosa, persistente y proactiva</strong>, orientada a resultados y comprometida con la calidad del código. Valoro la comunicación efectiva y la atención al detalle en cada proyecto.
 
-<h3 align="center">🏆 Experiencia y proyectos principales</h3>
+</p>
 
-- 📗 [**Norte Beneficios**](https://www.nortebeneficios.com.ar/) → Desarrollo y mantenimiento de apps móviles, webs y bases de datos.  
-- 🥘 [**Next.js Boilerplate**](https://github.com/facundocont/nextjs-boilerplate) → Boilerplate básico para iniciar proyectos en Next.js.  
-- 🍺 [**Ruta Cervecera SDE**](https://www.rutacervecerasde.com.ar/) → Landing page dedicada al turismo gastronómico.  
-- 👨‍⚕️ [**Norte Salud**](https://www.tunortesalud.com.ar/) → Landing page y desarrollo/mantenimiento de apps y múltiples webs.
+<br>
+<br>
 
-  Puedes ver más en mi portfolio  👉  [facundocont.com](https://facundocont.com) 
+<h3 align="center">💼 Experiencia Actual</h3>
 
-###
+<p align="left">
+  
+**Desarrollador Fullstack** @ <a href="https://nortebeneficios.com.ar">Norte Beneficios</a> *(sep 2024 - presente)*
 
-<h3 align="center">👯 Colaboraciones</h3>
+- 📱 Desarrollo y actualización de aplicaciones móviles en **Flutter** (iOS & Android)
+- 🌐 Desarrollo y mantenimiento de sitios web con **Next.js** y **TypeScript**
+- 🗄️ Gestión de bases de datos **Firebird SQL**
+- 🚀 Configuración y despliegue de proyectos en producción
+- 👥 Trabajo colaborativo con equipos multidisciplinarios
+- ⚙️ Gestión del área de sistemas: servidores, dominios y software interno
 
-- 🤝 Abierto a colaborar en proyectos de **desarrollo web** y **diseño de interfaces**.  
+</p>
 
-###
+<br>
+<br>
 
-<h3 align="center">📫 Contacto</h3>
+<h3 align="center">🚀 Proyectos Destacados</h3>
 
-- 📧 Correo: [facundocont.fc@gmail.com](mailto:facundocont.fc@gmail.com)  
-- [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ignacio-contreras/)  
-- 🎡 [Portfolio](https://facundocont.com)  
+<p align="left">
+
+**Proyectos Profesionales:**
+
+- 🏥 [**Cotizador Tu Norte Salud**](https://cotizar.tunortesalud.com.ar) → Web app de cotización de planes de salud con panel administrativo
+- 🏢 [**Norte Beneficios**](https://nortebeneficios.com.ar) → Rediseño completo del sitio institucional
+- 💊 [**Tu Norte Salud**](https://tunortesalud.com.ar) → Sitio web de presentación con actualizaciones continuas
+
+**Proyectos Personales:**
+
+- ⚡ [**Next.js Boilerplate**](https://github.com/facundocont/nextjs-boilerplate) → Template con Next.js 15, TypeScript, TailwindCSS v4 y buenas prácticas
+- 🍺 [**Ruta Cervecera SDE**](https://rutacervecerasde.com.ar) → Plataforma web para descubrir cervecerías
+
+**Ver todos mis proyectos →** [facundocont.com](https://facundocont.com)
+
+</p>
+
+<br>
+<br>
+
+<h3 align="center">🎓 Formación y Aprendizaje Continuo</h3>
+
+<p align="left">
+
+- 🎓 **Técnico Superior en Programación** - ITSE _(2022-2023)_
+- 🔒 **Experto Universitario en Seguridad de la Información** - UTN FRBA _(2018-2019)_
+- 📚 Actualmente: Curso avanzado de **Flutter** _(en curso)_
+- 💡 En constante aprendizaje de tecnologías backend
+
+</p>
+
+<br>
+<br>
+
+<h3 align="center">🤝 Colaboraciones y Contacto</h3>
+
+<p align="center">
+  
+Abierto a colaborar en proyectos de <strong>desarrollo web, mobile y diseño de interfaces</strong>.
+
+<br><br>
+
+📧 **Email:** [facundocont.fc@gmail.com](mailto:facundocont.fc@gmail.com)<br><br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ignacio-contreras/)<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://facundocont.com)<br><br>
+
+</p>
