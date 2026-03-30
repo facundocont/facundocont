@@ -27,15 +27,6 @@
 <br>
 <br>
 
-<h3 align="center">🔥 Estadísticas de GitHub</h3>
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-fawn-ten.vercel.app?user=facundocont&theme=radical&locale=es&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-</div>
-
-<br>
-<br>
-
 <h3 align="center">👨‍💻 Sobre mí</h3>
 
 <p align="left">
