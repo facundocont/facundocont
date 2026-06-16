@@ -103,7 +103,6 @@ Abierto a colaborar en proyectos de <strong>desarrollo web, mobile y diseño de 
 
 <br><br>
 
-📧 **Email:** [facundocont.fc@gmail.com](mailto:facundocont.fc@gmail.com)<br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-ignacio-contreras/)<br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://facundocont.com)<br><br>
 
